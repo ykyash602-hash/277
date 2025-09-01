@@ -5,7 +5,7 @@ A modern chat application built with Next.js 14 and deployed on Vercel, powered 
 ## 🚀 Features
 
 - **Multiple AI Models**: GPT-4, Claude 3.5, Gemini Pro, Llama 3.1, and more
-- **Real-time Streaming**: Live responses as they're generated
+- **Real-time Streaming**: Live responses as they're generated.
 - **Vercel Optimized**: Built specifically for Vercel deployment
 - **Responsive Design**: Works perfectly on desktop and mobile
 - **Cost Indicator**: Shows relative costs for different models
